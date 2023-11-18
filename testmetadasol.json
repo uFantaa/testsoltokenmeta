@@ -1,0 +1,13 @@
+{
+  "name": "test1",
+  "symbol": "tst",
+  "description": "A brief description of your token",
+  "decimals": 9,
+  "icon": "URL_to_icon_image",
+  "website": "https://yourtokenwebsite.com",
+  "whitepaper": "https://github.com",
+  "socials": {
+    "twitter": "https://twitter.com/elonmusk",
+    "telegram": "https://t.me/lookonchain"
+  }
+}
