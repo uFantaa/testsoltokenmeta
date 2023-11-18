@@ -3,7 +3,7 @@
   "symbol": "tst",
   "description": "A brief description of your token",
   "decimals": 9,
-  "icon": "URL_to_icon_image",
+  "icon": "https://picsum.photos/200",
   "website": "https://yourtokenwebsite.com",
   "whitepaper": "https://github.com",
   "socials": {
